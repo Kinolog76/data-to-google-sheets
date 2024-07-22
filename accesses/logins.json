@@ -1,0 +1,22 @@
+[
+  {
+    "teamName": "Team 1",
+    "username": "test1@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "teamName": "Team 2",
+    "username": "test2@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "teamName": "Team 3",
+    "username": "test3@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "teamName": "Team 4",
+    "username": "test4@gmail.com",
+    "password": "12345678"
+  }
+]
